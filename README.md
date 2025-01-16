@@ -1,1 +1,1 @@
-# TecnProgramacion
+# Tecnología de la programación
